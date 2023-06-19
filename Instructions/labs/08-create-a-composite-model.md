@@ -57,7 +57,7 @@ lab:
 
 1. **D:\DP500\Allfiles\08\Starter** フォルダーに移動します。
 
-1. 事前に作成された Power BI Desktop ファイルを開くには、**Sales Analysis - Create a dataflow.pbix** ファイルをダブルクリックします。 
+1. 事前に作成された Power BI Desktop ファイルを開くには、**Sales Analysis - Create a composite model.pbit** ファイルをダブルクリックします。 
 
 1. 潜在的なセキュリティ リスクの承認を求めるメッセージが表示されたら、 **[OK]** を選択します。
 
@@ -219,7 +219,7 @@ lab:
 
     両方の列に重複する値が含まれているため、カーディナリティは、Power BI Desktop によって自動的に多対多に設定されます。ただし、クロス フィルターの既定の方向は正しくありません。
 
-1. **[クロス フィルターの方向]** ドロップダウン リストで、 **[単一 (注文日フィルター ターゲット)]** を選択します。
+1. **[クロス フィルターの方向]** ドロップダウン リストで、 **[単一 (Order DateによってTargetsをフィルター処理)]** を選択します。
 
     ![](../images/dp500-create-a-composite-model-image24.png)
 
