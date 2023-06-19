@@ -100,7 +100,7 @@ Tabular Editor 2 のインストール、Power BI Desktop の設定、データ 
 
 1.  エクスプローラーで、**D:\\DP500\\Allfiles\\07\\Starter** フォルダーに移動します。
 
-2.  事前に作成された Power BI Desktop ファイルを開くには、**Sales Analysis - Create a dataflow.pbix** ファイルをダブルクリックします。
+2.  事前に作成された Power BI Desktop ファイルを開くには、**Sales Analysis - Create calculation groups.pbix** ファイルをダブルクリックします。
 
 3.  ファイルを保存するには、 **[ファイル]** リボン タブで **[名前を付けて保存]** を選択します。
 
@@ -277,7 +277,7 @@ Tabular Editor を使用して、**Time Intelligence** 計算グループを作�
 
 14. **[プロパティ]** ペインで、 **[Format String Expression]** プロパティを次のように設定します。 
     ```
-    0.00%;-0.00%;0.00%"
+    "0.00%;-0.00%;0.00%"
     ```
 
     ヒント: 書式設定文字列式は、**D:\\DP500\\Allfiles\\07\\Assets\\Snippets.txt** からコピーして貼り付けることができます。
