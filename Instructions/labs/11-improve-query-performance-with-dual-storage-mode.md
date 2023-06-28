@@ -55,7 +55,7 @@ lab:
 
 2. **D:\DP500\Allfiles\11\Starter** フォルダーに移動します。
 
-3. 事前に作成された Power BI Desktop ファイルを開くには、**Sales Analysis - Use tools to optimize Power BI performance.pbix** ファイルをダブルクリックします。
+3. 事前に作成された Power BI Desktop ファイルを開くには、**Sales Analysis - Improve query performance with dual storage mode.pbix** ファイルをダブルクリックします。
 
 4. 潜在的なセキュリティ リスクに関するメッセージが表示されたら、 **[OK]** を選択します。
 
